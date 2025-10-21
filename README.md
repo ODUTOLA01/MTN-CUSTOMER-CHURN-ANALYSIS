@@ -1,1 +1,5 @@
 # MTN-CUSTOMER-CHURN-ANALYSIS
+
+## Project Topic: MTN CUSTOMER CHURN ANALYSIS
+
+### Project Overview
